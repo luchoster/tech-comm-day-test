@@ -17,6 +17,7 @@
     "react-dom": "^16.13.1"
   },
   "dependencies": {
+    "gatsby-source-sanity": "^5.0.6",
     "gatsby-theme-luchoster-base": "*",
     "react-helmet": "^6.0.0"
   },
